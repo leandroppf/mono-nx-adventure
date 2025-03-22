@@ -8,6 +8,9 @@
     },
     {
       "path": "./apps/nx-next"
+    },
+    {
+      "path": "./ui"
     }
   ]
 }
